@@ -1,6 +1,3 @@
-## Peer Session Logs
+## 팀 공유 문서
 
-- [250113](https://github.com/SESACTeamProject/scrum-logs/wiki/250113) : 팀확정 첫 미팅
-- [250121](https://github.com/SESACTeamProject/scrum-logs/wiki/250121) : 프로젝트 기획 회의
-
-- [Java Convention]()
+- [Java Convention 및 예외 처리 규칙](https://github.com/SESACTeamProject/scrum-logs/wiki/Java-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-%EA%B7%9C%EC%B9%99)
